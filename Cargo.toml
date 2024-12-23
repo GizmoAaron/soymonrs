@@ -1,0 +1,11 @@
+[package]
+name = "newstuff"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ddc-hi = "0.4.1"
+mccs-db = "0.1.3"
+mccs = "0.1.3"
+egui = "0.30.0"
+eframe = "0.30.0"
